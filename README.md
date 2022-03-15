@@ -1,0 +1,2 @@
+# java_orm_standard_jpa_programming_bookStudy
+책 내용정리
