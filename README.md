@@ -1,5 +1,13 @@
 # java_orm_standard_jpa_programming_bookStudy
 책 내용정리
+
+### JPA
+[`링크`](https://github.com/Kim-Gyuri/java_orm_standard_jpa_programming_bookStudy/blob/main/JPA%20%EC%86%8C%EA%B0%9C.md) <br>
+> 1. SQL 중심적인 개발의 문제점 <br>
+> 2. JPA 소개
+
+<br>
+
 ### 영속성 컨텍스트 
 [`링크`](https://github.com/Kim-Gyuri/java_orm_standard_jpa_programming_bookStudy/blob/main/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md) <br>
 > 1. 영속성 컨텍스트 <br>
